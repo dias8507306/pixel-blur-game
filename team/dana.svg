@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="750" viewBox="0 0 600 750">
+<!-- Fictional demo avatar (pearl earring look). Generated placeholder, not a real person. -->
+<rect width="600" height="750" fill="#141414"/>
+<path d="M330 200 C420 200 470 300 430 380 L400 300Z" fill="#e7c25a"/>
+<path d="M120 750 C130 600 200 560 300 560 C400 560 470 600 480 750 Z" fill="#b8892f"/>
+<rect x="265" y="450" width="70" height="120" rx="30" fill="#efd3b0"/>
+<ellipse cx="300" cy="340" rx="105" ry="128" fill="#efd3b0"/>
+<path d="M190 300 C180 170 420 170 410 300 C380 240 220 240 190 300Z" fill="#2f5aa8"/><path d="M200 255 C260 205 340 205 400 255" stroke="#e7c25a" stroke-width="18" fill="none"/>
+<ellipse cx="262" cy="330" rx="13" ry="9" fill="#2b1d14"/><ellipse cx="338" cy="330" rx="13" ry="9" fill="#2b1d14"/><path d="M240 305 q22 -12 44 0 M316 305 q22 -12 44 0" stroke="#3a2a1f" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M300 340 q-8 40 4 52" stroke="#b07f5a" stroke-width="6" fill="none" stroke-linecap="round"/>
+<path d="M262 415 q38 22 76 0" stroke="#8a3b2e" stroke-width="8" fill="none" stroke-linecap="round"/>
+<circle cx="200" cy="420" r="16" fill="#f4f1ea" stroke="#9a9a9a" stroke-width="2"/><circle cx="195" cy="414" r="5" fill="#fff"/>
+</svg>

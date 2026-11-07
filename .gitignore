@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+node_modules/
+*.db
+__pycache__/
+.venv/
+.vercel
+.netlify
+*.log
+# never commit real photos
+staff/
+img/

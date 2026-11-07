@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="750" viewBox="0 0 600 750">
+<!-- Fictional demo avatar (Neo look). Generated placeholder, not a real person. -->
+<rect width="600" height="750" fill="#04140a"/><text x="30" y="80" fill="#22c55e" opacity=".55" font-family="monospace" font-size="28">1</text><text x="30" y="140" fill="#22c55e" opacity=".55" font-family="monospace" font-size="28">0</text><text x="90" y="200" fill="#22c55e" opacity=".55" font-family="monospace" font-size="28">1</text><text x="520" y="90" fill="#22c55e" opacity=".55" font-family="monospace" font-size="28">0</text><text x="540" y="170" fill="#22c55e" opacity=".55" font-family="monospace" font-size="28">1</text><text x="470" y="260" fill="#22c55e" opacity=".55" font-family="monospace" font-size="28">0</text><text x="60" y="330" fill="#22c55e" opacity=".55" font-family="monospace" font-size="28">1</text><text x="530" y="380" fill="#22c55e" opacity=".55" font-family="monospace" font-size="28">1</text><text x="40" y="470" fill="#22c55e" opacity=".55" font-family="monospace" font-size="28">0</text><text x="500" y="520" fill="#22c55e" opacity=".55" font-family="monospace" font-size="28">0</text><text x="80" y="600" fill="#22c55e" opacity=".55" font-family="monospace" font-size="28">1</text><text x="550" y="640" fill="#22c55e" opacity=".55" font-family="monospace" font-size="28">1</text>
+
+<path d="M120 750 C130 600 200 560 300 560 C400 560 470 600 480 750 Z" fill="#0b0b0b"/>
+<rect x="265" y="450" width="70" height="120" rx="30" fill="#d9a87e"/>
+<ellipse cx="300" cy="340" rx="105" ry="128" fill="#d9a87e"/>
+<path d="M198 300 C190 190 410 190 402 300 C390 250 330 228 300 230 C270 228 210 250 198 300Z" fill="#111"/>
+<rect x="222" y="310" width="72" height="38" rx="14" fill="#050505"/><rect x="306" y="310" width="72" height="38" rx="14" fill="#050505"/><rect x="290" y="320" width="20" height="6" fill="#050505"/>
+<path d="M300 340 q-8 40 4 52" stroke="#b07f5a" stroke-width="6" fill="none" stroke-linecap="round"/>
+<path d="M262 415 q38 22 76 0" stroke="#8a3b2e" stroke-width="8" fill="none" stroke-linecap="round"/>
+<path d="M220 560 L300 700 L380 560" fill="none" stroke="#1f1f1f" stroke-width="14"/>
+</svg>

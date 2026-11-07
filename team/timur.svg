@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="750" viewBox="0 0 600 750">
+<!-- Fictional demo avatar (Superman look). Generated placeholder, not a real person. -->
+<rect width="600" height="750" fill="#7dd3fc"/><circle cx="480" cy="120" r="60" fill="#fde68a"/>
+<path d="M120 750 L170 590 L430 590 L480 750Z" fill="#dc2626"/>
+<path d="M120 750 C130 600 200 560 300 560 C400 560 470 600 480 750 Z" fill="#1d4ed8"/>
+<rect x="265" y="450" width="70" height="120" rx="30" fill="#e0b48a"/>
+<ellipse cx="300" cy="340" rx="105" ry="128" fill="#e0b48a"/>
+<path d="M198 300 C190 185 410 185 402 300 C390 245 330 228 300 230 C270 228 210 245 198 300Z" fill="#111827"/><path d="M300 245 q-25 20 -5 40" stroke="#111827" stroke-width="10" fill="none" stroke-linecap="round"/>
+<ellipse cx="262" cy="330" rx="13" ry="9" fill="#2b1d14"/><ellipse cx="338" cy="330" rx="13" ry="9" fill="#2b1d14"/><path d="M240 305 q22 -12 44 0 M316 305 q22 -12 44 0" stroke="#3a2a1f" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M300 340 q-8 40 4 52" stroke="#b07f5a" stroke-width="6" fill="none" stroke-linecap="round"/>
+<path d="M262 415 q38 22 76 0" stroke="#8a3b2e" stroke-width="8" fill="none" stroke-linecap="round"/>
+<path d="M250 610 L350 610 L380 640 L300 720 L220 640 Z" fill="#facc15" stroke="#dc2626" stroke-width="8"/>
+</svg>

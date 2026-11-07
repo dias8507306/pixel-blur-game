@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="750" viewBox="0 0 600 750">
+<!-- Fictional demo avatar (Willy Wonka look). Generated placeholder, not a real person. -->
+<rect width="600" height="750" fill="#fef3c7"/><circle cx="90" cy="110" r="40" fill="#f472b6"/><circle cx="520" cy="200" r="30" fill="#60a5fa"/><circle cx="480" cy="80" r="22" fill="#34d399"/>
+<path d="M185 320 C180 260 420 260 415 320 L430 520 L170 520Z" fill="#8b5e34"/>
+<path d="M120 750 C130 600 200 560 300 560 C400 560 470 600 480 750 Z" fill="#6d28d9"/>
+<rect x="265" y="450" width="70" height="120" rx="30" fill="#efcfa8"/>
+<ellipse cx="300" cy="340" rx="105" ry="128" fill="#efcfa8"/>
+<rect x="210" y="110" width="180" height="140" rx="10" fill="#4c1d95"/><rect x="170" y="235" width="260" height="30" rx="14" fill="#4c1d95"/><rect x="210" y="210" width="180" height="22" fill="#c084fc"/>
+<ellipse cx="262" cy="330" rx="13" ry="9" fill="#2b1d14"/><ellipse cx="338" cy="330" rx="13" ry="9" fill="#2b1d14"/><path d="M240 305 q22 -12 44 0 M316 305 q22 -12 44 0" stroke="#3a2a1f" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M300 340 q-8 40 4 52" stroke="#b07f5a" stroke-width="6" fill="none" stroke-linecap="round"/>
+<path d="M262 415 q38 22 76 0" stroke="#8a3b2e" stroke-width="8" fill="none" stroke-linecap="round"/>
+<path d="M270 560 q30 30 60 0" stroke="#fbbf24" stroke-width="14" fill="none"/>
+</svg>

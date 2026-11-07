@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="750" viewBox="0 0 600 750">
+<!-- Fictional demo avatar (Mona Lisa look). Generated placeholder, not a real person. -->
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8fa37c"/><stop offset="1" stop-color="#5e5a3a"/></linearGradient></defs><rect width="600" height="750" fill="url(#g)"/><path d="M0 420 q150 -60 300 0 t300 -10 V750 H0Z" fill="#6f6a45" opacity=".7"/>
+<path d="M175 330 C170 180 430 180 425 330 L450 640 L150 640 Z" fill="#2a1b12"/>
+<path d="M120 750 C130 600 200 560 300 560 C400 560 470 600 480 750 Z" fill="#2f2a1e"/>
+<rect x="265" y="450" width="70" height="120" rx="30" fill="#e7c39a"/>
+<ellipse cx="300" cy="340" rx="105" ry="128" fill="#e7c39a"/>
+<path d="M195 300 C200 200 400 200 405 300 C380 250 320 235 300 240 C280 235 220 250 195 300Z" fill="#2a1b12"/>
+<ellipse cx="262" cy="330" rx="13" ry="9" fill="#2b1d14"/><ellipse cx="338" cy="330" rx="13" ry="9" fill="#2b1d14"/><path d="M240 305 q22 -12 44 0 M316 305 q22 -12 44 0" stroke="#3a2a1f" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M300 340 q-8 40 4 52" stroke="#b07f5a" stroke-width="6" fill="none" stroke-linecap="round"/>
+<path d="M262 415 q38 22 76 0" stroke="#8a3b2e" stroke-width="8" fill="none" stroke-linecap="round"/>
+<path d="M190 560 q110 60 220 0" stroke="#4a3f28" stroke-width="10" fill="none"/>
+</svg>
