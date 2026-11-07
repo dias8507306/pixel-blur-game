@@ -53,10 +53,10 @@ To use your own team: put photos into `team/` and edit the `STAFF` array in `ind
 All data in this repository is randomly generated; brand names are anonymized.
 Team members in `team/` are fictional; celebrity images are not stored in the repo, they are loaded from Wikimedia.
 
-## Қысқаша (KZ)
+## Кратко (RU)
 
-«Пиксель & Блюр» — команда ойындарына арналған браузерлік викторина: танымал адамның суреті бұлыңғыр әрі
-пиксельді болып басталып, бірте-бірте анықталады, ерте тапқан команда көбірек ұпай алады.
-Бір ғана `index.html` файлы: HTML, CSS және JavaScript, Canvas пен Web Audio API.
-Интерфейс қазақ және орыс тілінде. Іске қосу: `index.html` файлын браузерде ашыңыз.
-«Біздің ұжым» бөліміндегі адамдар ойдан алынған.
+«Пиксель & Блюр» — браузерная викторина для командных игр: фото известного человека сначала размыто и пикселизировано,
+постепенно проясняется, и команда, угадавшая раньше, получает больше очков.
+Один файл `index.html`: HTML, CSS и JavaScript, Canvas и Web Audio API.
+Интерфейс на казахском и русском. Запуск: откройте `index.html` в браузере.
+Люди в разделе «Наш коллектив» вымышлены.
